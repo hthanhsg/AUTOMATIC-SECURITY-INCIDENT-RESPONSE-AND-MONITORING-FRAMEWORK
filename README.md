@@ -3,5 +3,6 @@
 ![Alt text](images/scenario1.png)
 
 ## Practice 2: Detect and remove malicious code (Scenario 2)
+![Alt text](images/scenario2.png)
 
 ## Practice 3: Isolate the attacked server (Scenario 3)
